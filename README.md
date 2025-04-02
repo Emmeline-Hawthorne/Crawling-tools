@@ -30,7 +30,7 @@ A curated list of awesome web crawling frameworks, libraries, APIs, and tools to
 | [Puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript/Node.js | Headless Chrome Node.js API to control headless or full Chrome browsers. |
 | [Playwright](https://github.com/microsoft/playwright) | Python, Node.js, Java, .NET | Cross-browser automation library supporting Chromium, Firefox, and WebKit. |
 | [Selenium](https://github.com/SeleniumHQ/selenium) | Python, Java, JavaScript, etc. | Web browser automation for scraping or testing. |
-| [Apify SDK](https://github.com/apify/apify-sdk-js) | Node.js | Toolkit for scalable web scraping and automation with browser control and task management. |
+| [Crawlbase](https://crawlbase.com) | Node.js | Toolkit for scalable web scraping and automation with browser control and task management. |
 | [Crawlee](https://github.com/apify/crawlee) | Node.js | Web scraping and browser automation library with support for headless tools and proxy rotation. |
 | [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) | Python | Combines `requests` and `BeautifulSoup` to automate logging in and form submission. |
 | [WebMagic](https://github.com/code4craft/webmagic) | Java | Scalable and extensible crawler library for Java applications. |
